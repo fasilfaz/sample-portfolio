@@ -223,9 +223,6 @@ label:hover{
     .right-side ul a{
         background:none;
     }
-    .right-side ul a i{
-        scale: .9;
-    }
 }
 @media(max-width:870px){
     nav {
@@ -363,9 +360,9 @@ label:hover{
 
     .buttons button{
         color:orange;
-        padding: 8px;
-        font-size: 15px;
-        font-weight: 500;
+        padding: 10px;
+        font-size: 17px;
+        font-weight: 600;
         border-radius: 20px;
         background: #fff;
         border: none;
@@ -399,8 +396,8 @@ label:hover{
         margin-top: 5px;
     }
     .content .right-side .image{
-        width: 220px;
-        height: 250px;
+        height: 350px;
+        width: 270px;
         border-radius: 15px;
         padding: 8px;
         background: orange;
@@ -421,13 +418,12 @@ label:hover{
         background:none;
     }
     .right-side ul a i{
-        font-size: 15px;
-        height: 30px;
-        width: 30px;
+        font-size: 22px;
+        height: 40px;
+        width: 40px;
         text-align: center;
         border: 2px solid;
-        line-height: 28px;
-        margin: 0 3px;
+        line-height: 38px;
         border-radius: 50%;
         transition: all 0.3s ease;
     }
@@ -452,7 +448,7 @@ label:hover{
         margin-bottom: unset;
     }
     .left-side .name{
-        font-size: 2rem;
+        font-size: 3rem;
         font-weight: 500;
         color: orange;
         margin:unset;
@@ -473,9 +469,10 @@ label:hover{
     }
     .buttons button{
         color:orange;
-        padding: 3px;
-        font-size: 12px;
-        font-weight: 300;
+        padding: 10px;
+        font-size: 17px;
+        font-weight: 600;
+        border-radius: 20px;
     }
     
     
